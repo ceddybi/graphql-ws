@@ -4,7 +4,7 @@
     "module": "commonjs",
     "rootDir": "./src",
     "outDir": "./lib",
-    "declaration": false // already built by `tsconfig.esm.json`
+    "declaration": true // already built by `tsconfig.esm.json`
   },
   "include": ["src"],
   "exclude": ["src/__tests__"]

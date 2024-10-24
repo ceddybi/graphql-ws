@@ -4,7 +4,7 @@
     "module": "es2015",
     "rootDir": "./src",
     "outDir": "./lib",
-    "declaration": true
+    "declaration": false
   },
   "include": ["src"],
   "exclude": ["src/__tests__"]
